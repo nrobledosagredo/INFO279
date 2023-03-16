@@ -1,4 +1,4 @@
 # INFO279
-Tarea de tópicos más relevantes con LDA
+Tarea de tópicos más relevantes utilizando LDA
 
 Nicolás Robledo
