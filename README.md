@@ -1,2 +1,1 @@
-# INFO279
-Tarea de tópicos más relevantes utilizando LDA
+# Análisis de tópicos más relevantes utilizando LDA
